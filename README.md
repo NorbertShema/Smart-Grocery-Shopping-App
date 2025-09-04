@@ -87,7 +87,7 @@ Relationships:
 - **Backend:** Node.js, Express.js  
 - **Database:** MySQL  
 - **Server:** Apache or Nginx  
-- **Security:** JWT, SSL, Cisco networking gear  
+- **Security:** Cisco networking gear  
 - **Hosting:** AWS / Azure  
 
 ---
