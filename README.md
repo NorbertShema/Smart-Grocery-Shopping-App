@@ -18,7 +18,7 @@ The **Smart Grocery Shopping App** is designed to streamline grocery shopping by
 
 ---
 
-## 🔎 Overview  
+## <a name="overview"></a> 🔎 Overview  
 The app enables users to:  
 - Select recipes and automatically generate shopping lists.  
 - Track grocery budgets and spending history.  
@@ -33,7 +33,7 @@ Target Users:
 
 ---
 
-## ✨ Features  
+## <a name="features"></a> ✨ Features  
 
 **Functional Requirements:**  
 - ✅ Recipe-based shopping list generation  
@@ -49,7 +49,7 @@ Target Users:
 
 ---
 
-## 🏗 System Architecture  
+## <a name="system-architecture"></a> 🏗 System Architecture  
 
 The app is built on a **three-tier architecture**:  
 
@@ -61,7 +61,7 @@ The app is built on a **three-tier architecture**:
 
 ---
 
-## 🗄 Entity Relationship Diagram  
+## <a name="entity-relationship-diagram"></a> 🗄 Entity Relationship Diagram  
 
 **Key Entities:**  
 - User  
@@ -81,7 +81,7 @@ Relationships:
 
 ---
 
-## 🛠 Tech Stack  
+## <a name="tech-stack"></a> 🛠 Tech Stack  
 
 - **Frontend:** React.js, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
@@ -92,7 +92,7 @@ Relationships:
 
 ---
 
-## ✅ Quality Assurance  
+## <a name="quality-assurance"></a> ✅ Quality Assurance  
 
 Testing methods include:  
 - **Unit Testing** – e.g., login validation, recipe creation  
@@ -103,7 +103,7 @@ Testing methods include:
 
 ---
 
-## 🚀 Implementation Plan  
+## <a name="implementation-plan"></a> 🚀 Implementation Plan  
 
 1. **Server Setup** – Configure cloud hosting, databases, and APIs.  
 2. **Application Deployment** – Deploy front-end and back-end.  
@@ -113,7 +113,7 @@ Testing methods include:
 
 ---
 
-## 🔄 Handoff & Maintenance  
+## <a name="handoff--maintenance"></a> 🔄 Handoff & Maintenance  
 
 - 📑 **Documentation** – API docs, database schema, and system setup guides.  
 - 🛠 **Support** – Ticketing system for bug tracking & issue resolution.  
@@ -122,12 +122,18 @@ Testing methods include:
 
 ---
 
-## 🌱 Future Enhancements  
+## <a name="future-enhancements"></a> 🌱 Future Enhancements  
 
 - Grocery store partnerships for live inventory tracking.  
 - AI-driven personalized recipe suggestions.  
 - Barcode scanning for quicker item entry.  
 - Mobile app deployment on iOS & Android.  
+
+---
+
+## <a name="author"></a> ✍️ Author  
+
+- **Norbert Shema** – Software Developer | AI Enthusiast | Business Management & Logistics background  
 
 ---
 
